@@ -1,0 +1,9 @@
+{
+  "name": "fabrica",
+  "version": "1.0.0",
+  "description": "O método da Disruptio: histórias, design, desenvolvimento, QA, aceitação e merge com o ok do Iago.",
+  "author": {
+    "name": "Iago Silva",
+    "email": "iago.silva@disruptio.org"
+  }
+}
